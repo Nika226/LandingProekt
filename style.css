@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Dancing+Script:wght@700&family=Roboto:ital,wght@0,500;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hed {
+  font-family: "Borel", cursive;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/images/Rectangle.svg);
+  background-size: cover;
+  background-position: center;
+  padding-top: 182px;
+}
+
+.box {
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  padding-top: 45px 0;
+  margin: -60px 10px 10px 0;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  width: 1100px;
+  height: 300px;
+  gap: 15%;
+  padding: -250px;
+  margin: -220px 80px 80px 80px;
+}
+
+.par {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 72px;
+  justify-content: center;
+  color: red;
+  margin: 50px 1px 1px 1px;
+}
+
+.par1 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  font-size: 36px;
+  margin: 5px auto;
+  padding: -10px auto;
+}
+.par2 {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+#hj {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  justify-content: center;
+}
+
+#hk {
+  font-family: "Dancing Script", cursive;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 280px;
+  margin: -500px 5px 5px 5px;
+}
+.container {
+  justify-content: center;
+  font-family: "Borel", cursive;
+  color: #000;
+  text-align: center;
+}
+
+.images {
+  display: flex;
+}
+
+.container h2 {
+  text-align: center;
+}
+.paragr {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
